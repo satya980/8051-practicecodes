@@ -1,0 +1,4 @@
+ORG 00H
+L1: CPL P3.5
+ SJMP L1
+END
